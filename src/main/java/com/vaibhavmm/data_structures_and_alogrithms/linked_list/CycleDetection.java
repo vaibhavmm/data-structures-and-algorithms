@@ -1,4 +1,4 @@
-package main.java.com.vaibhavmm.data_structures_and_alogrithms.linked_list;
+package com.vaibhavmm.data_structures_and_alogrithms.linked_list;
 
 // https://leetcode.com/problems/linked-list-cycle/submissions/1310630900/
 public class CycleDetection {

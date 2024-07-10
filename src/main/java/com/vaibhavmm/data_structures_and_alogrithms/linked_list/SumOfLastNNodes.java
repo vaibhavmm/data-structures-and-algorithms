@@ -1,4 +1,4 @@
-package main.java.com.vaibhavmm.data_structures_and_alogrithms.linked_list;
+package com.vaibhavmm.data_structures_and_alogrithms.linked_list;
 
 // https://www.geeksforgeeks.org/problems/find-the-sum-of-last-n-nodes-of-the-linked-list/0
 public class SumOfLastNNodes {
@@ -8,7 +8,7 @@ public class SumOfLastNNodes {
 
     }
 
-    public int sum(ListNode head, int k) {
+    public int sum(main.java.com.vaibhavmm.data_structures_and_alogrithms.linked_list.ListNode head, int k) {
 
         ListNode ptr1 = head, ptr2 = head;
         int sum = 0 , subSum = 0;

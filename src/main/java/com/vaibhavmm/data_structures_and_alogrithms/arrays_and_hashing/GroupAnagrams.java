@@ -1,4 +1,4 @@
-package main.java.com.vaibhavmm.data_structures_and_alogrithms.arrays_and_hashing;
+package com.vaibhavmm.data_structures_and_alogrithms.arrays_and_hashing;
 
 //Given an array of strings strs, group the anagrams together. You can return the answer in any order.
 //

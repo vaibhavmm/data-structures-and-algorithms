@@ -1,4 +1,4 @@
-package main.java.com.vaibhavmm.data_structures_and_alogrithms.linked_list;
+package com.vaibhavmm.data_structures_and_alogrithms.linked_list;
 
 public class ListNode {
     int val;

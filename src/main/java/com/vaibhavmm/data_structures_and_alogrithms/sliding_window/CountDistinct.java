@@ -1,4 +1,4 @@
-package main.java.com.vaibhavmm.data_structures_and_alogrithms.sliding_window;
+package com.vaibhavmm.data_structures_and_alogrithms.sliding_window;
 
 import java.util.ArrayList;
 import java.util.HashMap;

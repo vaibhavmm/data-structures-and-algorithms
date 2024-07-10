@@ -1,4 +1,4 @@
-package main.java.com.vaibhavmm.data_structures_and_alogrithms.arrays_and_hashing;
+package com.vaibhavmm.data_structures_and_alogrithms.arrays_and_hashing;
 
 import java.util.ArrayList;
 import java.util.Collections;
