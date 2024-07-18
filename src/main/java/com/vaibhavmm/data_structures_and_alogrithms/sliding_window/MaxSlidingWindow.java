@@ -39,7 +39,7 @@ public class MaxSlidingWindow {
         return max;
     }
 
-    public static int[] maxSlidingWindow(int[] nums, int k) {
+    public static int[] maxSlidingWindow_vm(int[] nums, int k) {
 
         int start = 0;
         int[] res = new int[nums.length - k + 1];
