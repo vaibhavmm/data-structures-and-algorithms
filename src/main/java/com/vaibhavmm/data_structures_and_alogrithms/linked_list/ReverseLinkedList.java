@@ -12,6 +12,7 @@ public class ReverseLinkedList {
     }
 
     public ListNode reverseListI(ListNode head) {
+
         ListNode curr = head;
         ListNode prev = null;
 
